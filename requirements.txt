@@ -1,0 +1,7 @@
+pywifi
+matplotlib
+opencv-python
+Pillow
+numpy
+tkinter
+comtypes
