@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+
+# Virtual environment (venv directory should be ignored)
+venv/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore the loaded floorplan image (if you're saving any processed images)
+images/floorplan_cache/
+images/example_floorplan.png
+
+# Matplotlib and other generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Environment variables, secrets
+.env
+
+# VSCode specific files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports for testing (if used)
+htmlcov/
+.coverage
+.tox/
+
+# Pillow specific cache
+*/__pycache__/
+
+
+/data/
