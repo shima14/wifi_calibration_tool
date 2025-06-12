@@ -1,0 +1,24 @@
+[
+    {
+        "Punkt": 1,
+        "Position in Pixeln (X,Y)": [
+            93,
+            291
+        ],
+        "Position in Metern": [
+            0.93,
+            2.91
+        ]
+    },
+    {
+        "Punkt": 2,
+        "Position in Pixeln (X,Y)": [
+            143,
+            311
+        ],
+        "Position in Metern": [
+            1.43,
+            3.11
+        ]
+    }
+]

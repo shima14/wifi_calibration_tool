@@ -1,0 +1,992 @@
+[
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -89,
+        "BSSID": "f0:5c:19:87:35:31:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -87,
+        "BSSID": "f0:5c:19:87:fd:e0:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -94,
+        "BSSID": "f0:5c:19:86:29:d0:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:86:8a:30:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:90:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8b:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8c:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "f0:5c:19:86:8b:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -83,
+        "BSSID": "f0:5c:19:88:01:81:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c0:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -46,
+        "BSSID": "f0:5c:19:86:1d:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -90,
+        "BSSID": "f0:5c:19:86:22:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -67,
+        "BSSID": "f0:5c:19:86:a2:61:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -59,
+        "BSSID": "f0:5c:19:86:89:80:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -60,
+        "BSSID": "f0:5c:19:86:1d:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -82,
+        "BSSID": "a8:bd:27:7c:ca:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -93,
+        "BSSID": "f0:5c:19:86:29:d1:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -88,
+        "BSSID": "f0:5c:19:86:9e:c3:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -72,
+        "BSSID": "f0:5c:19:87:35:23:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -87,
+        "BSSID": "f0:5c:19:87:35:33:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:86:8a:36:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:16:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:97:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -93,
+        "BSSID": "f0:5c:19:87:fd:f7:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8b:12:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8c:12:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "f0:5c:19:86:8b:02:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -67,
+        "BSSID": "f0:5c:19:86:a2:63:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "f0:5c:19:86:8c:02:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -42,
+        "BSSID": "f0:5c:19:86:1d:09:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c1:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -86,
+        "BSSID": "f0:5c:19:87:fd:e7:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "a8:bd:27:7c:ca:08:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -60,
+        "BSSID": "f0:5c:19:86:89:89:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -64,
+        "BSSID": "f0:5c:19:86:1d:17:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Vodafone-09E5",
+        "Signal Strength (dBm)": -92,
+        "BSSID": "d4:3f:cb:9d:d2:43:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MMK",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:93:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MMK",
+        "Signal Strength (dBm)": -93,
+        "BSSID": "f0:5c:19:86:29:d4:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MMK",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:12:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MMK",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:29:c4:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MMK",
+        "Signal Strength (dBm)": -59,
+        "BSSID": "f0:5c:19:86:89:83:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MMK",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "a8:bd:27:7c:ca:02:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8b:11:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -93,
+        "BSSID": "f0:5c:19:86:29:d2:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "f0:5c:19:86:89:82:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -85,
+        "BSSID": "f0:5c:19:86:8a:31:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -89,
+        "BSSID": "f0:5c:19:87:35:32:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:18:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:99:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8c:11:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -68,
+        "BSSID": "f0:5c:19:86:8b:01:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c2:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -70,
+        "BSSID": "f0:5c:19:86:8c:01:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -55,
+        "BSSID": "f0:5c:19:86:1d:03:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -87,
+        "BSSID": "f0:5c:19:86:22:01:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -70,
+        "BSSID": "f0:5c:19:86:a2:62:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -88,
+        "BSSID": "f0:5c:19:87:fd:e2:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -83,
+        "BSSID": "f0:5c:19:88:01:82:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -65,
+        "BSSID": "a8:bd:27:7c:ca:04:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -64,
+        "BSSID": "f0:5c:19:86:1d:15:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "CIT_managed",
+        "Signal Strength (dBm)": -91,
+        "BSSID": "f0:5c:19:86:8c:81:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "ZDD DSAI",
+        "Signal Strength (dBm)": -93,
+        "BSSID": "f0:5c:19:86:29:d9:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "ZDD DSAI",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c9:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "ZDD DSAI",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:19:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "ZDD DSAI",
+        "Signal Strength (dBm)": -63,
+        "BSSID": "f0:5c:19:86:89:95:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "ZDD DSAI",
+        "Signal Strength (dBm)": -65,
+        "BSSID": "a8:bd:27:7c:ca:09:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "ZDD DSAI",
+        "Signal Strength (dBm)": -61,
+        "BSSID": "f0:5c:19:86:89:87:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM IT-Sicherheit",
+        "Signal Strength (dBm)": -92,
+        "BSSID": "f0:5c:19:86:29:d8:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM IT-Sicherheit",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:86:8a:35:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM IT-Sicherheit",
+        "Signal Strength (dBm)": -77,
+        "BSSID": "f0:5c:19:86:29:c8:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM IT-Sicherheit",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:15:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM IT-Sicherheit",
+        "Signal Strength (dBm)": -63,
+        "BSSID": "f0:5c:19:86:89:96:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM IT-Sicherheit",
+        "Signal Strength (dBm)": -85,
+        "BSSID": "a8:bd:27:7c:ca:07:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM IT-Sicherheit",
+        "Signal Strength (dBm)": -60,
+        "BSSID": "f0:5c:19:86:89:88:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -94,
+        "BSSID": "f0:5c:19:86:29:d7:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c7:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:14:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:94:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -94,
+        "BSSID": "f0:5c:19:87:fd:f8:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -88,
+        "BSSID": "f0:5c:19:87:fd:e8:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -65,
+        "BSSID": "a8:bd:27:7c:ca:06:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM_DAISY",
+        "Signal Strength (dBm)": -86,
+        "BSSID": "f0:5c:19:86:89:86:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -93,
+        "BSSID": "f0:5c:19:86:29:d1:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -88,
+        "BSSID": "f0:5c:19:86:9e:c3:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -72,
+        "BSSID": "f0:5c:19:87:35:23:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -87,
+        "BSSID": "f0:5c:19:87:35:33:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:86:8a:36:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:16:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:97:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -93,
+        "BSSID": "f0:5c:19:87:fd:f7:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8b:12:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8c:12:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "f0:5c:19:86:8b:02:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -67,
+        "BSSID": "f0:5c:19:86:a2:63:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "f0:5c:19:86:8c:02:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -42,
+        "BSSID": "f0:5c:19:86:1d:09:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c1:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -86,
+        "BSSID": "f0:5c:19:87:fd:e7:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "a8:bd:27:7c:ca:08:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -60,
+        "BSSID": "f0:5c:19:86:89:89:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Freifunk",
+        "Signal Strength (dBm)": -64,
+        "BSSID": "f0:5c:19:86:1d:17:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -94,
+        "BSSID": "f0:5c:19:86:29:d6:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -72,
+        "BSSID": "a8:bd:27:7c:ca:13:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -63,
+        "BSSID": "f0:5c:19:86:89:92:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:29:c6:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -43,
+        "BSSID": "f0:5c:19:86:1d:07:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -59,
+        "BSSID": "f0:5c:19:86:89:85:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "a8:bd:27:7c:ca:05:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec2",
+        "Signal Strength (dBm)": -65,
+        "BSSID": "f0:5c:19:86:1d:13:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -89,
+        "BSSID": "f0:5c:19:87:35:31:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -87,
+        "BSSID": "f0:5c:19:87:fd:e0:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -94,
+        "BSSID": "f0:5c:19:86:29:d0:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:86:8a:30:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:90:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8b:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:8c:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -66,
+        "BSSID": "f0:5c:19:86:8b:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -83,
+        "BSSID": "f0:5c:19:88:01:81:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c0:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -46,
+        "BSSID": "f0:5c:19:86:1d:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -90,
+        "BSSID": "f0:5c:19:86:22:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -67,
+        "BSSID": "f0:5c:19:86:a2:61:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -59,
+        "BSSID": "f0:5c:19:86:89:80:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -60,
+        "BSSID": "f0:5c:19:86:1d:10:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "eduroam",
+        "Signal Strength (dBm)": -82,
+        "BSSID": "a8:bd:27:7c:ca:00:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -74,
+        "BSSID": "f0:5c:19:87:35:20:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -89,
+        "BSSID": "f0:5c:19:87:35:30:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -87,
+        "BSSID": "f0:5c:19:87:fd:e1:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -94,
+        "BSSID": "f0:5c:19:86:29:d3:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:11:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -63,
+        "BSSID": "f0:5c:19:86:89:91:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -82,
+        "BSSID": "f0:5c:19:86:a2:70:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -79,
+        "BSSID": "f0:5c:19:86:29:c3:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:88:01:80:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -43,
+        "BSSID": "f0:5c:19:86:1d:01:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -68,
+        "BSSID": "f0:5c:19:86:a2:60:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -65,
+        "BSSID": "f0:5c:19:86:1d:11:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -83,
+        "BSSID": "a8:bd:27:7c:ca:01:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510",
+        "Signal Strength (dBm)": -63,
+        "BSSID": "f0:5c:19:86:89:81:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "Pretty Fly 4 a WIFI",
+        "Signal Strength (dBm)": -88,
+        "BSSID": "58:68:7a:23:1c:7e:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA2",
+        "Signal Strength (dBm)": -91,
+        "BSSID": "f0:5c:19:86:8c:84:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA2",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:86:8a:34:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA2",
+        "Signal Strength (dBm)": -91,
+        "BSSID": "f0:5c:19:87:fd:f4:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA2",
+        "Signal Strength (dBm)": -43,
+        "BSSID": "f0:5c:19:86:1d:04:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA2",
+        "Signal Strength (dBm)": -90,
+        "BSSID": "f0:5c:19:87:fd:e4:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA2",
+        "Signal Strength (dBm)": -64,
+        "BSSID": "f0:5c:19:86:1d:14:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA",
+        "Signal Strength (dBm)": -84,
+        "BSSID": "f0:5c:19:86:8a:33:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA",
+        "Signal Strength (dBm)": -75,
+        "BSSID": "f0:5c:19:86:1d:02:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM DIVA",
+        "Signal Strength (dBm)": -64,
+        "BSSID": "f0:5c:19:86:1d:12:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -95,
+        "BSSID": "f0:5c:19:86:29:d5:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -71,
+        "BSSID": "a8:bd:27:7c:ca:17:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -62,
+        "BSSID": "f0:5c:19:86:89:98:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -78,
+        "BSSID": "f0:5c:19:86:29:c5:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -42,
+        "BSSID": "f0:5c:19:86:1d:06:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -60,
+        "BSSID": "f0:5c:19:86:89:84:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -85,
+        "BSSID": "a8:bd:27:7c:ca:03:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM Webtec",
+        "Signal Strength (dBm)": -65,
+        "BSSID": "f0:5c:19:86:1d:18:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510_2",
+        "Signal Strength (dBm)": -92,
+        "BSSID": "f0:5c:19:87:fd:f6:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM 1510_2",
+        "Signal Strength (dBm)": -88,
+        "BSSID": "f0:5c:19:87:fd:e6:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MI-Projekte",
+        "Signal Strength (dBm)": -92,
+        "BSSID": "f0:5c:19:87:fd:f5:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "FBM MI-Projekte",
+        "Signal Strength (dBm)": -86,
+        "BSSID": "f0:5c:19:87:fd:e5:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "",
+        "Signal Strength (dBm)": -87,
+        "BSSID": "f0:5c:19:87:fd:e3:"
+    },
+    {
+        "Timestamp": "2024-10-22 12:20:21",
+        "SSID": "DIRECT-D3B24BD7",
+        "Signal Strength (dBm)": -90,
+        "BSSID": "9e:ae:d3:b2:cb:d7:"
+    }
+]
