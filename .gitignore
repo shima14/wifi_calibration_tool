@@ -6,37 +6,43 @@ __pycache__/
 # Log files
 *.log
 
-# Virtual environment
+# Virtual environment (venv directory should be ignored)
 venv/
+ENV/
+env/
 
-# Python egg files
+# Python egg files and packaging
 *.egg
 *.egg-info/
 dist/
 build/
 
-# Ignore cache or temporary images, but keep main example image
+# Cache for matplotlib, PIL, etc.
+*.cache
+.cache/
+*.db
+
+# Ignore any saved or temporary images (adjust as needed)
 images/floorplan_cache/
 
-# Exclude auto-generated images (optional)
-# But allow manually added ones
-# Uncomment below ONLY if you want to ignore all .png/.jpg globally:
+# Allow manually added floorplans (don't ignore this)
+!images/
+!images/example_floorplan.png
+
+# You can comment this if you want to keep all images
 # *.png
 # *.jpg
 # *.jpeg
 # *.gif
 
-# Keep example floorplan
-!images/
-!images/example_floorplan.png
-
-# Environment
+# Environment variables and secrets
 .env
 
-# VSCode
+# VSCode or IDE-specific files
 .vscode/
+.idea/
 
-# OS generated
+# OS generated files
 .DS_Store
 Thumbs.db
 
@@ -45,8 +51,10 @@ htmlcov/
 .coverage
 .tox/
 
-# Pillow-specific
-*/__pycache__/
+# PyInstaller or py2exe output
+*.spec
+*.exe
+*.dll
 
-# Other project data (optional)
+# Data folder (optional - if you generate any logs/output)
 data/
